@@ -99,13 +99,13 @@ We’re offering a limited number of **real-world, guided learning positions** i
 ### 📌 Program Format:
 - Starts: **May 2025** (3-month program)  
 - Commitment: ~10 hrs/week  
-- Fee: $25/week  
+- Fee: $25/week (No lock-in, you pay as you go)
 - Format: Remote (Live Google Meets + Discord)
 
-> 💬 **Why is this paid?**  
+> 💬 **Why do we charge for it?**  
 > 1. It increases commitment and focus.  
 > 2. It helps cover the time our mentors spend guiding you.  
->  3. It ensures our startup has minimal operational support in the pre-funding phase.
+> 3. It ensures our startup has minimal operational support in the pre-funding phase.
 
 ---
 
