@@ -66,7 +66,7 @@ We're also building a strong community of **builders and believers** who want to
 
 ## 🎓 Team Lead Volunteers 💥
 
-Are you a developer or product-minded technologist with ~3 years of experience?  
+Are you a developer or product-minded technologist with ~3 years of experience with Flutter?
 Want to be part of something that flips dating apps upside down?
 
 💡 **Join us if you want to:**
