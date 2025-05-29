@@ -115,7 +115,7 @@ We’re offering a limited number of **real-world, guided learning positions** i
 ### Team Roles:
 - **Founder/Product Owner** – Builds product architecture & vision  
 - **Dev Leads** – Own features, mentor, and guide juniors  
-- **CodeCampers** – Learn, contribute, and grow into full-time roles
+- **CodeCampers** – Learn, contribute, and grow skills
 
 ### Path to Growth:
 - Contribute. Get noticed.  
