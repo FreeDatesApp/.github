@@ -100,7 +100,7 @@ We’re offering a limited number of **real-world, guided learning positions** i
 ### 📌 Program Format:
 - Starts: **June 2025** (3-month program)
 - Daily Meetings: 11am (Melbourne Time, have to attend at least 3 per week)
-- Commitment: ~10 hrs/week  
+- Commitment: ~10 hrs/week (minimum 8 weeks to get a certificate/references)
 - Fee: $25/week (No lock-in, you pay as you go)
 - Format: Remote (Live Google Meets + Discord)
 
@@ -127,7 +127,7 @@ You’ll work inside Figma on a live product with mentorship from a highly exper
 📌 Program Format:
 - Starts: June 2025 (3-month program)
 - Daily Meetings: 11am (Melbourne Time – attend at least 3 per week)
-- Commitment: ~10 hrs/week
+- Commitment: ~10 hrs/week (minimum 8 weeks to get a certificate/references)
 - Fee: $25/week (No lock-in, you pay as you go)
 - Format: Remote (Google Meet + Discord)
 
