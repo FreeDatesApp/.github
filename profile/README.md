@@ -90,14 +90,15 @@ We’re offering a limited number of **real-world, guided learning positions** i
 
 💡 **Join us if you want to:**
 
-✅ Build your skills in: **React, TypeScript, Firebase, Firestore**  
+✅ Build your skills in: **Flutter for web and mobile, Firebase, Firestore and TypeScript/NodeJS cloud functions**  
 ✅ Learn about **ethical gamification, AI feedback systems, and user psychology**  
 ✅ Get feedback, guidance, and real mentoring from experienced leads  
 ✅ Work in a small Agile team on a meaningful, people-first product  
 ✅ Be considered for a future **paid role** when we raise funding
 
 ### 📌 Program Format:
-- Starts: **May 2025** (3-month program)  
+- Starts: **June 2025** (3-month program)
+- Daily Meetings: 11am (Melbourne Time, have to attend at least 3 per week)
 - Commitment: ~10 hrs/week  
 - Fee: $25/week (No lock-in, you pay as you go)
 - Format: Remote (Live Google Meets + Discord)
