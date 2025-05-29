@@ -72,15 +72,16 @@ Want to be part of something that flips dating apps upside down?
 💡 **Join us if you want to:**
 
 ✅ **Lead & grow a real product team**  
-✅ **Build your name as a startup founder or early employee**  
+✅ **Build your name as a startup early employee**  
 ✅ **Design real-time scoring systems and gamified social models**  
 ✅ **Experiment with AI trust mechanisms and ethical social design**
+✅ **Build App that will be loved by millions**
 
 ### 📌 Be ready to commit:
-- 3 meetings/week
+- 3 meetings/week (11am Melbourne time daily)
 - Discord availability
 - Team mentoring & code reviews
-- Working on core product logic (React, Firebase, LLMs)
+- Working on core product logic (Flutter, Firebase, NodeJS)
 
 ---
 
@@ -110,6 +111,32 @@ We’re offering a limited number of **real-world, guided learning positions** i
 
 ---
 
+🎨 UI/UX Internship (Figma) 💡
+
+We’re offering a limited number of real-world, guided design internships in our product design team.
+You’ll work inside Figma on a live product with mentorship from a highly experienced design lead.
+
+💡 Join us if you want to:
+
+✅ Build your skills in: UX flows, mobile-first UI design, design systems, prototyping in Figma
+✅ Learn about ethical gamification, AI feedback loops, and human psychology in design
+✅ Get weekly reviews, guidance, and hands-on mentoring
+✅ Collaborate with developers and help shape a meaningful, people-first product
+✅ Be considered for a future paid role when we raise funding
+
+📌 Program Format:
+- Starts: June 2025 (3-month program)
+- Daily Meetings: 11am (Melbourne Time – attend at least 3 per week)
+- Commitment: ~10 hrs/week
+- Fee: $25/week (No lock-in, you pay as you go)
+- Format: Remote (Google Meet + Discord)
+
+💬 Why do we charge for it?
+- It boosts commitment and focus
+- It supports the time mentors spend reviewing your work
+- It helps us sustain operations in this pre-funding stage
+
+---
 # 🧩 Our Team & Future
 
 ### Team Roles:
