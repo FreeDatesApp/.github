@@ -110,7 +110,7 @@ You’ll work on a live product, be part of core team and get mentorship to lear
 ✅ Be considered for a future **paid role** when we raise funding
 
 ### 📌 Program Format:
-- Starts: **June 2025** (3-month program)
+- Starts: **Roling intake** (3-month program)
 - Daily Meetings: 11am (Melbourne Time, have to attend at least 3 per week)
 - Commitment: ~10 hrs/week (minimum 8 weeks to get a certificate/references)
 - Fee: $25/week (No lock-in, you pay as you go)
