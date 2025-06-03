@@ -64,10 +64,21 @@ We're also building a strong community of **builders and believers** who want to
 
 # 💼 Who We're Looking For
 
+We are a very ambitious startup that will revolutionise the way dating industry is working one day!
+We are moving very fast and therefore have high-standards of who we invite to participate.
+At the same time we belive that those who work hard and eager to learn fast are vital for a start-up like ours.
+
+Therefore, we welcome you in if you are experienced enough and ready to lead the team!
+If you are not there yet, you can start with our internship where we will guarantee you will learn superfast and grow to be that pro-active leader that every start-up needs.
+
+Here is the breakdown of the roles we offer:
+
 ## 🎓 Team Lead Volunteers 💥
 
-Are you a developer or product-minded technologist with ~3 years of experience with Flutter?
-Want to be part of something that flips dating apps upside down?
+Have extensive (~3 years) commercial experience in:
+- Software Development (Flutter or native Apps)
+- UI/UX (Figma)
+- Automated Testing frameworks (Playwright or similar).
 
 💡 **Join us if you want to:**
 
@@ -78,16 +89,17 @@ Want to be part of something that flips dating apps upside down?
 ✅ **Build App that will be loved by millions**
 
 ### 📌 Be ready to commit:
-- 3 meetings/week (11am Melbourne time daily)
+- 4 meetings/week (11am Melbourne time daily)
 - Discord availability
 - Team mentoring & code reviews
-- Working on core product logic (Flutter, Firebase, NodeJS)
+- Working on core product functionality/design/test
 
 ---
 
-## 🧪 CodeCamp Interns (Junior Devs) 💻
+## 🧪 Interns (Junior Devs, UIUX and QA) 💻
 
-We’re offering a limited number of **real-world, guided learning positions** in our development squad. You’ll work on a live product with help from experienced devs and designers.
+We’re offering a limited number of **real-world, guided learning positions** in our development team.
+You’ll work on a live product, be part of core team and get mentorship to learn and grow.
 
 💡 **Join us if you want to:**
 
@@ -111,43 +123,32 @@ We’re offering a limited number of **real-world, guided learning positions** i
 
 ---
 
-🎨 UI/UX Internship (Figma) 💡
-
-We’re offering a limited number of real-world, guided design internships in our product design team.
-You’ll work inside Figma on a live product with mentorship from a highly experienced design lead.
-
-💡 Join us if you want to:
-
-✅ Build your skills in: UX flows, mobile-first UI design, design systems, prototyping in Figma
-✅ Learn about ethical gamification, AI feedback loops, and human psychology in design
-✅ Get weekly reviews, guidance, and hands-on mentoring
-✅ Collaborate with developers and help shape a meaningful, people-first product
-✅ Be considered for a future paid role when we raise funding
-
-📌 Program Format:
-- Starts: June 2025 (3-month program)
-- Daily Meetings: 11am (Melbourne Time – attend at least 3 per week)
-- Commitment: ~10 hrs/week (minimum 8 weeks to get a certificate/references)
-- Fee: $25/week (No lock-in, you pay as you go)
-- Format: Remote (Google Meet + Discord)
-
-💬 Why do we charge for it?
-- It boosts commitment and focus
-- It supports the time mentors spend reviewing your work
-- It helps us sustain operations in this pre-funding stage
+# 🎨 Tech Stack & Tools:
+**Development:**
+- Flutter (Dart) for web and mobile
+- Firebase Firestore
+- Google Cloud (functions, static hosting, static buckets
+- TypeScript/NodeJS & Python
+- OpenAI/Gemini
+**UI/UX:**
+Figma, user interviews and user testing, prototyping
+**Testing:**
+Playwright automation
 
 ---
 # 🧩 Our Team & Future
 
+We are a small new team at the moment (4 people), but will eventually grow up to 12 people in near future.
+
 ### Team Roles:
-- **Founder/Product Owner** – Builds product architecture & vision  
-- **Dev Leads** – Own features, mentor, and guide juniors  
-- **CodeCampers** – Learn, contribute, and grow skills
+- **Founder/Product Owner** – Builds product architecture & vision  (1 -> 2)
+- **Leads** – Own features, mentor, and guide juniors  (1 -> 3)
+- **Juniors** – Learn, contribute, and grow skills (2 -> 7)
 
 ### Path to Growth:
-- Contribute. Get noticed.  
-- Earn trust and ownership.  
-- Rise as the product rises.  
+- Contribute. Get noticed.
+- Earn trust and ownership.
+- Rise as the product rises.
 
 We reward initiative, not credentials.  
 We promote based on value, not résumé.
