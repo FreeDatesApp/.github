@@ -97,30 +97,70 @@ Have extensive (~3 years) commercial experience in:
 
 ---
 
-## 🧪 Interns (Junior Devs, UIUX and QA) 💻
+Here’s the updated version of your learning program, now extended to include **SCRUM Masters, UI/UX Designers, and Testers**, alongside Developers:
 
-We’re offering a limited number of **real-world, guided learning positions** in our development team.
-You’ll work on a live product, be part of core team and get mentorship to learn and grow.
+---
+
+## 🧪 Learning Program 💻
+
+We’re offering a limited number of **real-world, guided learning positions** across product and engineering disciplines.
+Suitable for roles of developer, designer, tester, or agile lead — you’ll gain hands-on experience building a live product that aims to change the world of online dating.
 
 💡 **Join us if you want to:**
 
-✅ Build your skills in: **Flutter for web and mobile, Firebase, Firestore and TypeScript/NodeJS cloud functions**  
-✅ Learn about **ethical gamification, AI feedback systems, and user psychology**  
-✅ Get feedback, guidance, and real mentoring from experienced leads  
-✅ Work in a small Agile team on a meaningful, people-first product  
-✅ Be considered for a future **paid role** when we raise funding
+### 👩‍💻 For Developers:
+
+✅ Learn and contribute with **Flutter (web + mobile)**, **Firebase**, **TypeScript/NodeJS cloud functions**
+✅ Understand **gamification**, **AI-powered trust mechanisms**, and real-time systems
+✅ Work with mentors on architecture, clean code, and fast-paced iteration
+
+### 🎨 For UI/UX Designers:
+
+✅ Master **Figma** for real-world prototyping and interface design
+✅ Conduct **user research**, **usability testing**, and **feedback loops**
+✅ Collaborate directly with product owners and developers in a tight feedback cycle
+✅ Learn how to balance emotional design with ethical mechanics
+
+### 🔬 For Testers (QA):
+
+✅ Learn and apply **Playwright** for automated end-to-end testing
+✅ Understand how to write **test cases**, create **bug reports**, and follow a proper QA workflow
+✅ Contribute to **release quality**, **CI/CD readiness**, and **user confidence**
+✅ Get real feedback from users and iterate tests accordingly
+
+### 📋 For SCRUM Masters / Agile Learners:
+
+✅ Learn how to **facilitate Agile ceremonies** (standups, retros, sprint planning)
+✅ Practice **story grooming**, **velocity tracking**, and **blocker resolution**
+✅ Act as the glue between devs, testers, and designers
+✅ Help keep a lean, early-stage product moving fast without breaking
+
+---
 
 ### 📌 Program Format:
-- Starts: **Roling intake** (3-month program)
-- Daily Meetings: 11am (Melbourne Time, have to attend at least 3 per week)
-- Commitment: ~10 hrs/week (minimum 8 weeks to get a certificate/references)
-- Fee: $25/week (No lock-in, you pay as you go)
-- Format: Remote (Live Google Meets + Discord)
 
-> 💬 **Why do we charge for it?**  
-> 1. It increases commitment and focus.  
-> 2. It helps cover the time our mentors spend guiding you.  
-> 3. It ensures our startup has minimal operational support in the pre-funding phase.
+* **Starts:** Rolling intake (join when ready)
+* **Duration:** Minimum 8 weeks to complete the track and receive certificate/reference
+* **Meetings:** Daily standups at 11am (Melbourne time) — minimum 3 per week required
+* **Commitment:** \~10 hrs/week
+* **Fee:** \$25/week (pay-as-you-go, cancel anytime)
+* **Format:** Remote (Google Meet + Discord)
+
+> 💬 **Why we charge:**
+>
+> 1. It ensures only serious participants commit.
+> 2. It supports mentors’ time and keeps the program sustainable.
+> 3. It allows us to grow and operate while still pre-funding.
+
+---
+
+### ✅ What You Get:
+
+* Live experience working on a real, socially impactful app
+* Mentoring from industry pros
+* Certificate of completion & reference (after 8 weeks min)
+* Consideration for future **paid** roles after funding
+* A supportive, ambitious startup culture that rewards hustle and heart
 
 ---
 
