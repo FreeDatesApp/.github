@@ -49,7 +49,7 @@ This creates a **closed, socially governed trust loop** — just like real relat
 
 ---
 
-# 🚀 Our Next 3 Months (May–July 2025)
+# 🚀 Our Next 4 Months (Jul–Oct 2025)
 
 We’re an **unfunded but fast-moving startup** with a big vision. Our immediate goals are:
 
@@ -78,7 +78,8 @@ Here is the breakdown of the roles we offer:
 Have extensive (~3 years) commercial experience in:
 - Software Development (Flutter or native Apps)
 - UI/UX (Figma)
-- Automated Testing frameworks (Playwright or similar).
+- Automated Testing frameworks (Playwright or similar)
+- SCRUM Master methodology
 
 💡 **Join us if you want to:**
 
@@ -141,9 +142,9 @@ Playwright automation
 We are a small new team at the moment (4 people), but will eventually grow up to 12 people in near future.
 
 ### Team Roles:
-- **Founder/Product Owner** – Builds product architecture & vision  (1 -> 2)
-- **Leads** – Own features, mentor, and guide juniors  (1 -> 3)
-- **Juniors** – Learn, contribute, and grow skills (2 -> 7)
+- **Founder/Product Owner** – Builds product architecture & vision
+- **Leads** – Own features, mentor, and guide juniors
+- **Juniors** – Learn, contribute, and grow skills
 
 ### Path to Growth:
 - Contribute. Get noticed.
