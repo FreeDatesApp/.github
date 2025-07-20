@@ -97,10 +97,6 @@ Have extensive (~3 years) commercial experience in:
 
 ---
 
-Here’s the updated version of your learning program, now extended to include **SCRUM Masters, UI/UX Designers, and Testers**, alongside Developers:
-
----
-
 ## 🧪 Learning Program 💻
 
 We’re offering a limited number of **real-world, guided learning positions** across product and engineering disciplines.
